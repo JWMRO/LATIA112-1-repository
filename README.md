@@ -27,7 +27,7 @@
 https://colab.research.google.com/drive/1dVFYG9UKX7ibu7qlIQCaVoOwj7f3wjTW
 
 # 作業二
-C:\Users\user\Downloads\Ch1-5\Ch02\prectice\作業2-2
+
 
 # 作業三
 
