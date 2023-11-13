@@ -27,7 +27,7 @@
 https://colab.research.google.com/drive/1dVFYG9UKX7ibu7qlIQCaVoOwj7f3wjTW
 
 # 作業二
-https://vscode.dev/profile/github/684465949c7f9268814f6386e83c1050
+https://github.com/JWMRO/work2-2/blob/main/%E4%BD%9C%E6%A5%AD2-2
 
 # 作業三
 
