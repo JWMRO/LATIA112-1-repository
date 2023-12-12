@@ -32,8 +32,8 @@ BeautifulSoup https://github.com/JWMRO/work2-2/blob/main/%E4%BD%9C%E6%A5%AD3
 selenium https://github.com/JWMRO/work2-2/blob/main/selenium%20homework
 scrapy https://github.com/JWMRO/work2-2/blob/main/%E4%BD%9C%E6%A5%AD4
 # 作業三
-
-
+part1 https://github.com/JWMRO/LATIA112-1-repository/blob/main/line%20robot.md
+part2 
 # 作業四
 
 
