@@ -28,12 +28,13 @@
 https://colab.research.google.com/drive/1dVFYG9UKX7ibu7qlIQCaVoOwj7f3wjTW
 
 # 作業二(爬蟲)
-BeautifulSoup https://github.com/JWMRO/work2-2/blob/main/%E4%BD%9C%E6%A5%AD3
-selenium https://github.com/JWMRO/work2-2/blob/main/selenium%20homework
-scrapy https://github.com/JWMRO/work2-2/blob/main/%E4%BD%9C%E6%A5%AD4
+BeautifulSoup: https://github.com/JWMRO/work2-2/blob/main/%E4%BD%9C%E6%A5%AD3
+Selenium: https://github.com/JWMRO/work2-2/blob/main/selenium%20homework
+Scrapy: https://github.com/JWMRO/work2-2/blob/main/%E4%BD%9C%E6%A5%AD4
 # 作業三
-part1 https://github.com/JWMRO/LATIA112-1-repository/blob/main/line%20robot.md
-part2 https://github.com/JWMRO/LATIA112-1-repository/blob/main/line%20robot.py
+part1: https://github.com/JWMRO/LATIA112-1-repository/blob/main/line%20robot.md
+part2: https://github.com/JWMRO/LATIA112-1-repository/blob/main/line%20robot.py
+image: https://github.com/JWMRO/LATIA112-1-repository/blob/main/line%20robot.jpg
 # 作業四
 
 
