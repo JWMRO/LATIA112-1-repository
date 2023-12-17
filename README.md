@@ -36,7 +36,7 @@ Scrapy: https://github.com/JWMRO/work2-2/blob/main/%E4%BD%9C%E6%A5%AD4
 # 作業三
 part1: https://github.com/JWMRO/LATIA112-1-repository/blob/main/line%20robot.md
 
-part2: [line robot.py](https://github.com/JWMRO/LATIA112-1-repository)
+part2: [[line robot.py](https://github.com/JWMRO/LATIA112-1-repository)](https://github.com/JWMRO/LATIA112-1-repository/blob/main/line%20robot.py)
 
 image: ![image](https://github.com/JWMRO/LATIA112-1-repository/assets/144102369/920d28ed-c05b-4cee-9db9-f0856714ecef)
 
