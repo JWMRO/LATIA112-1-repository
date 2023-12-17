@@ -39,6 +39,7 @@ part1: https://github.com/JWMRO/LATIA112-1-repository/blob/main/line%20robot.md
 part2: https://github.com/JWMRO/LATIA112-1-repository/blob/main/line%20robot.py
 
 image: ![image](https://github.com/JWMRO/LATIA112-1-repository/assets/144102369/920d28ed-c05b-4cee-9db9-f0856714ecef)
+
 (我上課目標完成，回家功課部分稍待研究)
 
 # 作業四
