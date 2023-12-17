@@ -40,8 +40,9 @@ part2: https://github.com/JWMRO/LATIA112-1-repository/blob/main/line%20robot.py
 
 image: 
 # 作業四
+程式碼連結: https://github.com/JWMRO/JWMRO.github.io
 
-
+github pages 執行結果網址: https://jwmro.github.io/
 # 專題連結區
 
 
