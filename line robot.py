@@ -65,15 +65,30 @@ def callback():
 
 @handler.add(MessageEvent, message=TextMessageContent)
 def message_text(event):
-    sentiment_result = azure_sentiment(event.message.text)
+    sentiment_results = azure_sentiment(event.message.text)
+
     with ApiClient(configuration) as api_client:
         line_bot_api = MessagingApi(api_client)
+
+        # 將 sentiment_results 轉換為中文的字串表示
+        sentiment_string = "\n".join([f"{result['文本']} 的情感：{translate_sentiment(result['性向'])}（信心：{result['置信度']:.2%}）" for result in sentiment_results])
         line_bot_api.reply_message_with_http_info(
             ReplyMessageRequest(
                 reply_token=event.reply_token,
-                messages=[TextMessage(text=sentiment_result)]
+                messages=[TextMessage(text=sentiment_string)]
             )
         )
+
+def translate_sentiment(sentiment):
+    if sentiment == 'positive':
+        return '正向的'
+    elif sentiment == 'neutral':
+        return '中性的'
+    elif sentiment == 'negative':
+        return '負面的'
+    else:
+        return '未知的'
+
 
 def azure_sentiment(user_input):
     text_analytics_client = TextAnalyticsClient(
